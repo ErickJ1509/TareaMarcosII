@@ -1,0 +1,14 @@
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\bin\Debug\net7.0\RegistroAlumnosGITHUB.exe
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\bin\Debug\net7.0\RegistroAlumnosGITHUB.deps.json
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\bin\Debug\net7.0\RegistroAlumnosGITHUB.runtimeconfig.json
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\bin\Debug\net7.0\RegistroAlumnosGITHUB.dll
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\bin\Debug\net7.0\RegistroAlumnosGITHUB.pdb
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.AssemblyInfoInputs.cache
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.AssemblyInfo.cs
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.csproj.CoreCompileInputs.cache
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.dll
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\refint\RegistroAlumnosGITHUB.dll
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.pdb
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\RegistroAlumnosGITHUB.genruntimeconfig.cache
+C:\Users\Erick1509\OneDrive\Escritorio1\Universidad\6to Semestre\MarcosDesarrollo II\GITHUB\RegistroAlumnosGITHUB\RegistroAlumnosGITHUB\obj\Debug\net7.0\ref\RegistroAlumnosGITHUB.dll
